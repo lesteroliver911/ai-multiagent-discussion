@@ -165,15 +165,6 @@ This architecture can be adapted for various AI applications:
    - Real-time fact checking and reference gathering
    - Sentiment-aware content creation
 
-## Contributing
-
-The project welcomes improvements in:
-- Agent personality implementation
-- Conversation flow management
-- Knowledge integration methods
-- Response generation quality
-- UI/UX enhancements
-
 ## License
 
 MIT License
