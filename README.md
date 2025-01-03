@@ -176,7 +176,7 @@ The project welcomes improvements in:
 
 ## License
 
-[Add your chosen license]
+MIT License
 
 ## Credits
 
