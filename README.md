@@ -14,6 +14,8 @@ This project showcases several key aspects of AI development:
 
 4. **Conversational Flow**: Managing turn-taking and context preservation in multi-agent discussions.
 
+![Demo](https://github.com/lesteroliver911/ai-multiagent-discussion/raw/main/demo.gif)
+
 ## Core Technologies
 
 ### ControlFlow for Agent Management
